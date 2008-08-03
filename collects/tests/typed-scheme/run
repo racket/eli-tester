@@ -1,2 +1,0 @@
-#!/bin/bash
-mred  -e '(begin (require "main.ss") (go))'

@@ -1,5 +1,0 @@
-EXPORTS
- GC_malloc
- GC_malloc_atomic
- GC_malloc_stubborn
- GC_malloc_uncollectable

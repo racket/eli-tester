@@ -1,4 +1,0 @@
-#lang scheme
-
-(define (go)
-  'yep-it-works)

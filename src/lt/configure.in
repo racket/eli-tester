@@ -1,3 +1,0 @@
-
-AC_INIT(lt, 1.0, mflatt@plt-scheme.org)
-AC_PROG_LIBTOOL
